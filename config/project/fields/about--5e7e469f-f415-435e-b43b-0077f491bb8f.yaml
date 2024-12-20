@@ -1,0 +1,22 @@
+columnSuffix: null
+handle: about
+instructions: null
+name: About
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    - 82e626b9-e432-44f0-b956-372ceb9dcb88 # Input Text
+    - e0a64687-d271-4ab1-9ea4-0d9e2174fc13 # Input Image
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: true
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

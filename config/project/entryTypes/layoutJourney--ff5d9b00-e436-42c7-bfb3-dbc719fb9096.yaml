@@ -1,0 +1,67 @@
+color: null
+fieldLayouts:
+  922cba56-7069-408f-aa43-1a054d0c045a:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-12-19T09:05:02+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 79f1a256-b791-439d-ac3d-ce91613a5d23
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T09:05:02+00:00'
+            elementCondition: null
+            fieldUid: 9c7052fe-6ae0-4dc9-b800-6447324e9ca6 # Body Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9673e4b9-b308-4f2a-a02a-54d96f486bd1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d8a72109-a2cc-4b54-a0e8-49c37827aab6
+        userCondition: null
+handle: layoutJourney
+hasTitleField: true
+icon: null
+name: 'Layout Journey'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

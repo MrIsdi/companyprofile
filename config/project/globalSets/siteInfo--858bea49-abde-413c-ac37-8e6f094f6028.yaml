@@ -1,0 +1,60 @@
+fieldLayouts:
+  fe45bc00-d2b4-4e00-ab42-4e4e30d63a63:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-12-16T08:24:09+00:00'
+            elementCondition: null
+            fieldUid: 351612e3-9202-4f3d-8020-cbfcefcde6f3 # Logo Icon
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 758f497b-9d58-44e5-8d66-297b6c50c22e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-16T08:25:41+00:00'
+            elementCondition: null
+            fieldUid: 59e9847f-c73f-42ef-b824-76d5b373a2d1 # Logo
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a82c6208-a9ea-495c-9256-4de6623dba14
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-16T08:26:49+00:00'
+            elementCondition: null
+            fieldUid: b073e097-1f3b-4a55-8863-f4ef2014193b # Logo Putih
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 50d0ba1f-600c-4eaf-afa2-2eaa51dea9e3
+            userCondition: null
+            warning: null
+            width: 100
+        name: Global
+        uid: 4085d194-77b0-4102-b62c-dab58898dede
+        userCondition: null
+handle: siteInfo
+name: 'Site Info'
+sortOrder: 1

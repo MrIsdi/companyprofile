@@ -1,0 +1,46 @@
+isPublic: true
+name: 'Public Schema'
+scope:
+  - 'sites.64e53b69-ab01-497f-a11b-5a0e1ec07062:read' # PT Multi Medika Mahadata
+  - 'elements.drafts:read'
+  - 'elements.revisions:read'
+  - 'elements.inactive:read'
+  - 'sections.1cf35403-22fd-43da-ba82-9eb6da059f47:read' # Homepage
+  - 'nestedentryfields.5e7e469f-f415-435e-b43b-0077f491bb8f:read' # About
+  - 'nestedentryfields.f050b5c8-3148-4775-a553-0a01195299bc:read'
+  - 'nestedentryfields.48436358-4cac-478a-ad18-3ad03acc069f:read' # Count
+  - 'nestedentryfields.c7dee369-fd57-4db4-a378-6af4a2ef33b3:read' # Home
+  - 'nestedentryfields.23782e63-3163-4c92-9076-7c4f1c479f7e:read' # Page Builder
+  - 'nestedentryfields.86d4faa4-b753-4fc5-bd95-0eb421ea5909:read'
+  - 'volumes.bd7a5538-be19-4c69-88a3-0d06a9229312:read' # Images
+  - 'globalsets.858bea49-abde-413c-ac37-8e6f094f6028:read' # Site Info
+  - 'sections.1cf35403-22fd-43da-ba82-9eb6da059f47:save' # Homepage
+  - 'nestedentryfields.5e7e469f-f415-435e-b43b-0077f491bb8f:edit' # About
+  - 'nestedentryfields.5e7e469f-f415-435e-b43b-0077f491bb8f:create' # About
+  - 'nestedentryfields.5e7e469f-f415-435e-b43b-0077f491bb8f:save' # About
+  - 'nestedentryfields.5e7e469f-f415-435e-b43b-0077f491bb8f:delete' # About
+  - 'nestedentryfields.f050b5c8-3148-4775-a553-0a01195299bc:edit'
+  - 'nestedentryfields.f050b5c8-3148-4775-a553-0a01195299bc:create'
+  - 'nestedentryfields.f050b5c8-3148-4775-a553-0a01195299bc:save'
+  - 'nestedentryfields.f050b5c8-3148-4775-a553-0a01195299bc:delete'
+  - 'nestedentryfields.48436358-4cac-478a-ad18-3ad03acc069f:edit' # Count
+  - 'nestedentryfields.48436358-4cac-478a-ad18-3ad03acc069f:create' # Count
+  - 'nestedentryfields.48436358-4cac-478a-ad18-3ad03acc069f:save' # Count
+  - 'nestedentryfields.48436358-4cac-478a-ad18-3ad03acc069f:delete' # Count
+  - 'nestedentryfields.c7dee369-fd57-4db4-a378-6af4a2ef33b3:edit' # Home
+  - 'nestedentryfields.c7dee369-fd57-4db4-a378-6af4a2ef33b3:create' # Home
+  - 'nestedentryfields.c7dee369-fd57-4db4-a378-6af4a2ef33b3:save' # Home
+  - 'nestedentryfields.c7dee369-fd57-4db4-a378-6af4a2ef33b3:delete' # Home
+  - 'nestedentryfields.23782e63-3163-4c92-9076-7c4f1c479f7e:edit' # Page Builder
+  - 'nestedentryfields.23782e63-3163-4c92-9076-7c4f1c479f7e:create' # Page Builder
+  - 'nestedentryfields.23782e63-3163-4c92-9076-7c4f1c479f7e:save' # Page Builder
+  - 'nestedentryfields.23782e63-3163-4c92-9076-7c4f1c479f7e:delete' # Page Builder
+  - 'nestedentryfields.86d4faa4-b753-4fc5-bd95-0eb421ea5909:edit'
+  - 'nestedentryfields.86d4faa4-b753-4fc5-bd95-0eb421ea5909:create'
+  - 'nestedentryfields.86d4faa4-b753-4fc5-bd95-0eb421ea5909:save'
+  - 'nestedentryfields.86d4faa4-b753-4fc5-bd95-0eb421ea5909:delete'
+  - 'volumes.bd7a5538-be19-4c69-88a3-0d06a9229312:edit' # Images
+  - 'volumes.bd7a5538-be19-4c69-88a3-0d06a9229312:create' # Images
+  - 'volumes.bd7a5538-be19-4c69-88a3-0d06a9229312:save' # Images
+  - 'volumes.bd7a5538-be19-4c69-88a3-0d06a9229312:delete' # Images
+  - 'globalsets.858bea49-abde-413c-ac37-8e6f094f6028:edit' # Site Info

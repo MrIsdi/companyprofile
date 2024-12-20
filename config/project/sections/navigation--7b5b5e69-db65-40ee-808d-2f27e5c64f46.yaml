@@ -1,0 +1,30 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - 16c15485-2d15-44e2-b2f9-031f018db061 # Navigasi
+handle: navigation
+maxAuthors: 1
+name: Navigation
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  64e53b69-ab01-497f-a11b-5a0e1ec07062: # PT Multi Medika Mahadata
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: null
+  uid: 2c6b8361-9662-4a04-bc2c-ec6ddf83f79e
+type: structure

@@ -1,0 +1,30 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - 28c9c6d3-3490-43f3-b0b5-b4801aeb1890 # People Page
+handle: people
+maxAuthors: 1
+name: People
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  64e53b69-ab01-497f-a11b-5a0e1ec07062: # PT Multi Medika Mahadata
+    enabledByDefault: true
+    hasUrls: true
+    template: people/_entry.twig
+    uriFormat: 'people/{slug}'
+structure:
+  maxLevels: null
+  uid: 98cfbe5d-3238-4b86-b817-35155e08f311
+type: structure

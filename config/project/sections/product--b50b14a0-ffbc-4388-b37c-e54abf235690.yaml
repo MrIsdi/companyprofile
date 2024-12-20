@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - 982fe34a-17b5-4f5f-ad02-3f8ff92ce4ce # Product Page
+handle: product
+maxAuthors: 1
+name: Product
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  64e53b69-ab01-497f-a11b-5a0e1ec07062: # PT Multi Medika Mahadata
+    enabledByDefault: true
+    hasUrls: true
+    template: product/_entry.twig
+    uriFormat: product
+type: channel

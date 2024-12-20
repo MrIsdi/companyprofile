@@ -1,0 +1,77 @@
+dateModified: 1734662536
+email:
+  fromEmail: admin@gmail.com
+  fromName: 'PT Multi Medika Mahadata'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  assets:
+    hasUrls: true
+    name: Assets
+    settings:
+      path: '@webroot/assets'
+    type: craft\fs\Local
+    url: '@assets'
+meta:
+  __names__:
+    0b56403c-5415-4fd5-a06f-3253b5ef1ff5: 'PT Multi Medika Mahadata' # PT Multi Medika Mahadata
+    0bd48f19-a61f-4496-9c18-648976c2448a: 'Layout Home' # Layout Home
+    1cf35403-22fd-43da-ba82-9eb6da059f47: Homepage # Homepage
+    3f853b4a-4459-44c1-9fb3-3c173dde2158: 'Layout Contact' # Layout Contact
+    5b8d2dcc-376f-4cae-9f71-1c8313af3bb4: 'About 3' # About 3
+    5e7e469f-f415-435e-b43b-0077f491bb8f: About # About
+    6c25dd36-7b7a-4a33-b2bb-02e7f4fedca3: People # People
+    7b5b5e69-db65-40ee-808d-2f27e5c64f46: Navigation # Navigation
+    9c7052fe-6ae0-4dc9-b800-6447324e9ca6: 'Body Image' # Body Image
+    16c15485-2d15-44e2-b2f9-031f018db061: Navigasi # Navigasi
+    23b74656-a3a1-44a0-a4ec-6a9c5ef0b09d: 'Layout About' # Layout About
+    28c9c6d3-3490-43f3-b0b5-b4801aeb1890: 'People Page' # People Page
+    35b67ba9-8772-4967-84bd-d5e8fd71105a: 'Layout Count' # Layout Count
+    47ab6554-2c28-4a53-bb94-f62ffa323d2d: 'Nav Link' # Nav Link
+    59e9847f-c73f-42ef-b824-76d5b373a2d1: Logo # Logo
+    64e53b69-ab01-497f-a11b-5a0e1ec07062: 'PT Multi Medika Mahadata' # PT Multi Medika Mahadata
+    82e626b9-e432-44f0-b956-372ceb9dcb88: 'Input Text' # Input Text
+    95eea75c-5184-442c-aa2b-a95999a7d093: Simple # Simple
+    223b766e-568f-447c-98b0-d3f6bbeab860: 'About 2' # About 2
+    801ae733-bab9-46c1-9010-27d168e4a10f: 'Layout Gallery' # Layout Gallery
+    858bea49-abde-413c-ac37-8e6f094f6028: 'Site Info' # Site Info
+    887f5473-9730-43e0-93f6-e467f4a0872a: About # About
+    957dd5f0-daae-4594-a8d4-390e558d015b: 'Layout Product' # Layout Product
+    982fe34a-17b5-4f5f-ad02-3f8ff92ce4ce: 'Product Page' # Product Page
+    1935e245-297f-4f95-9e7c-b083019c1a43: 'input Count' # input Count
+    2296a8c2-6424-4be4-91f9-e6d73d17ac0e: 'Layout Platform' # Layout Platform
+    23782e63-3163-4c92-9076-7c4f1c479f7e: 'Page Builder' # Page Builder
+    87836a9f-ae5f-4937-8a83-a06a2ac726ae: 'Body Editor' # Body Editor
+    351612e3-9202-4f3d-8020-cbfcefcde6f3: 'Logo Icon' # Logo Icon
+    48436358-4cac-478a-ad18-3ad03acc069f: Count # Count
+    a690ee2c-a907-442e-9ba7-0035bb472687: 'Layout Facilities' # Layout Facilities
+    b073e097-1f3b-4a55-8863-f4ef2014193b: 'Logo Putih' # Logo Putih
+    b50b14a0-ffbc-4388-b37c-e54abf235690: Product # Product
+    bd7a5538-be19-4c69-88a3-0d06a9229312: Images # Images
+    bffa2fcc-9f6d-417e-b3e9-404d7726cea0: 'About Us' # About Us
+    c7dee369-fd57-4db4-a378-6af4a2ef33b3: Home # Home
+    d37a8f3f-5e35-46a0-a589-0f815b4a37c0: 'Public Schema' # Public Schema
+    d98fc999-1654-41da-9d7a-4727e195ef96: Homepage # Homepage
+    dde45219-4f2c-4aab-b99c-e4e0dd36e4ef: 'Option Gallery' # Option Gallery
+    e0a64687-d271-4ab1-9ea4-0d9e2174fc13: 'Input Image' # Input Image
+    e694772e-9370-41bc-98e7-5bea324a09e4: Body # Body
+    f450b812-50df-49fe-b071-a1e2acfe79f9: 'Layout About Us' # Layout About Us
+    f23489bd-024c-458d-a119-e20db2829502: 'Layout Management' # Layout Management
+    ff5d9b00-e436-42c7-bfb3-dbc719fb9096: 'Layout Journey' # Layout Journey
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+system:
+  edition: solo
+  live: true
+  name: 'PT Multi Medika Mahadata'
+  schemaVersion: 5.5.0.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

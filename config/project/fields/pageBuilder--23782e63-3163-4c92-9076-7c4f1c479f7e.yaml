@@ -1,0 +1,31 @@
+columnSuffix: null
+handle: pageBuilder
+instructions: null
+name: 'Page Builder'
+searchable: false
+settings:
+  createButtonLabel: 'Add Block'
+  defaultIndexViewMode: cards
+  entryTypes:
+    - 0bd48f19-a61f-4496-9c18-648976c2448a # Layout Home
+    - 35b67ba9-8772-4967-84bd-d5e8fd71105a # Layout Count
+    - 23b74656-a3a1-44a0-a4ec-6a9c5ef0b09d # Layout About
+    - 957dd5f0-daae-4594-a8d4-390e558d015b # Layout Product
+    - 3f853b4a-4459-44c1-9fb3-3c173dde2158 # Layout Contact
+    - f450b812-50df-49fe-b071-a1e2acfe79f9 # Layout About Us
+    - 2296a8c2-6424-4be4-91f9-e6d73d17ac0e # Layout Platform
+    - ff5d9b00-e436-42c7-bfb3-dbc719fb9096 # Layout Journey
+    - a690ee2c-a907-442e-9ba7-0035bb472687 # Layout Facilities
+    - 801ae733-bab9-46c1-9010-27d168e4a10f # Layout Gallery
+    - f23489bd-024c-458d-a119-e20db2829502 # Layout Management
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: blocks
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

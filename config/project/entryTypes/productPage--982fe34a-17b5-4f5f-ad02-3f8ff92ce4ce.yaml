@@ -1,0 +1,115 @@
+color: null
+fieldLayouts:
+  49ca11dd-89a7-4b98-ad65-33c8af3d07e3:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-12-19T07:28:17+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 52eb8da4-ff50-4a50-8f35-6808d02bc42f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T07:35:03+00:00'
+            elementCondition: null
+            fieldUid: 9c7052fe-6ae0-4dc9-b800-6447324e9ca6 # Body Image
+            handle: logoProduk
+            includeInCards: false
+            instructions: null
+            label: 'Logo Produk'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 43e95259-5a39-43ff-8097-a1297da17eb5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T07:35:03+00:00'
+            elementCondition: null
+            fieldUid: 9c7052fe-6ae0-4dc9-b800-6447324e9ca6 # Body Image
+            handle: gambarProduk
+            includeInCards: false
+            instructions: null
+            label: 'Gambar Produk'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 910f26dd-3204-470a-b4d6-9c9a6bf8e293
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T07:35:03+00:00'
+            elementCondition: null
+            fieldUid: e694772e-9370-41bc-98e7-5bea324a09e4 # Body
+            handle: deskripsiProduk
+            includeInCards: false
+            instructions: null
+            label: 'Deskripsi Produk'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: accde8e3-c0a6-4e21-a71b-ad87ec07755e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T07:37:23+00:00'
+            elementCondition: null
+            fieldUid: 47ab6554-2c28-4a53-bb94-f62ffa323d2d # Nav Link
+            handle: linkProduk
+            includeInCards: false
+            instructions: null
+            label: 'Link Produk'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1586bb87-afba-4f1a-a365-c067e48c3b07
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b4775fab-e96f-4bb1-8a86-322586fd2f47
+        userCondition: null
+handle: productPage
+hasTitleField: true
+icon: null
+name: 'Product Page'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

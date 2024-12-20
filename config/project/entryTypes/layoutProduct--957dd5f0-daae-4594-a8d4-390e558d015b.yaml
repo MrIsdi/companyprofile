@@ -1,0 +1,67 @@
+color: null
+fieldLayouts:
+  ebc8aa6a-83fe-4ea0-8e23-cddca2ff2bee:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-12-17T08:22:41+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 0ff8846e-e928-475b-ad85-df6de6d4f1b9
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-19T07:47:28+00:00'
+            elementCondition: null
+            fieldUid: 47ab6554-2c28-4a53-bb94-f62ffa323d2d # Nav Link
+            handle: produkLink
+            includeInCards: false
+            instructions: null
+            label: 'Produk Link'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4a503d03-1bc4-4761-b199-765407c909d1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 552154cc-8dcc-428d-8f75-74879f7a0a2c
+        userCondition: null
+handle: layoutProduct
+hasTitleField: true
+icon: null
+name: 'Layout Product'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

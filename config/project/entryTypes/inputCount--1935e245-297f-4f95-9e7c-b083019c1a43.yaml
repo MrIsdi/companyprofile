@@ -1,0 +1,69 @@
+color: null
+fieldLayouts:
+  511b36c6-66b4-4e93-aa19-78f2dce57455:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-12-17T07:38:51+00:00'
+            elementCondition: null
+            fieldUid: e694772e-9370-41bc-98e7-5bea324a09e4 # Body
+            handle: countIcon
+            includeInCards: false
+            instructions: null
+            label: Icon
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1ab64f96-478e-4849-bd7f-6949bb1b5a7b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-17T07:38:51+00:00'
+            elementCondition: null
+            fieldUid: e694772e-9370-41bc-98e7-5bea324a09e4 # Body
+            handle: countTotal
+            includeInCards: false
+            instructions: null
+            label: Total
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d481bc3e-4cf1-4e6c-bf52-cb52cebdddeb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-17T07:38:51+00:00'
+            elementCondition: null
+            fieldUid: e694772e-9370-41bc-98e7-5bea324a09e4 # Body
+            handle: countCaption
+            includeInCards: false
+            instructions: null
+            label: Caption
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 83520f31-746b-4d73-87ec-26eef4f17a80
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f10c64b0-1ad9-4491-be52-c91827e72d20
+        userCondition: null
+handle: inputCount
+hasTitleField: false
+icon: null
+name: 'input Count'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
