@@ -6,6 +6,22 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: '2025-01-06T18:34:24+00:00'
+            elementCondition: null
+            fieldUid: dd6cd06c-d227-428e-bd78-7589a890e625 # Count Stats
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 997c0fa4-b575-45c4-8e8e-566a9e983a9c
+            userCondition: null
+            warning: null
+            width: 100
+          -
             dateAdded: '2024-12-17T07:39:41+00:00'
             elementCondition: null
             fieldUid: 48436358-4cac-478a-ad18-3ad03acc069f # Count

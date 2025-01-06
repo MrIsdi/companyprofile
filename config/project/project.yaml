@@ -1,4 +1,4 @@
-dateModified: 1734662536
+dateModified: 1736188464
 email:
   fromEmail: admin@gmail.com
   fromName: 'PT Multi Medika Mahadata'
@@ -42,6 +42,7 @@ meta:
     23782e63-3163-4c92-9076-7c4f1c479f7e: 'Page Builder' # Page Builder
     87836a9f-ae5f-4937-8a83-a06a2ac726ae: 'Body Editor' # Body Editor
     351612e3-9202-4f3d-8020-cbfcefcde6f3: 'Logo Icon' # Logo Icon
+    382637ff-4f84-45c3-a071-bd7a61cb3a06: 'Block Image and Paragraph' # Block Image and Paragraph
     48436358-4cac-478a-ad18-3ad03acc069f: Count # Count
     a690ee2c-a907-442e-9ba7-0035bb472687: 'Layout Facilities' # Layout Facilities
     b073e097-1f3b-4a55-8863-f4ef2014193b: 'Logo Putih' # Logo Putih
@@ -51,11 +52,13 @@ meta:
     c7dee369-fd57-4db4-a378-6af4a2ef33b3: Home # Home
     d37a8f3f-5e35-46a0-a589-0f815b4a37c0: 'Public Schema' # Public Schema
     d98fc999-1654-41da-9d7a-4727e195ef96: Homepage # Homepage
+    dd6cd06c-d227-428e-bd78-7589a890e625: 'Count Stats' # Count Stats
     dde45219-4f2c-4aab-b99c-e4e0dd36e4ef: 'Option Gallery' # Option Gallery
     e0a64687-d271-4ab1-9ea4-0d9e2174fc13: 'Input Image' # Input Image
     e694772e-9370-41bc-98e7-5bea324a09e4: Body # Body
     f450b812-50df-49fe-b071-a1e2acfe79f9: 'Layout About Us' # Layout About Us
     f23489bd-024c-458d-a119-e20db2829502: 'Layout Management' # Layout Management
+    fa33724f-c363-48ee-b1cd-ca5df01d071d: 'List Image and Paragraph' # List Image and Paragraph
     ff5d9b00-e436-42c7-bfb3-dbc719fb9096: 'Layout Journey' # Layout Journey
 plugins:
   ckeditor:

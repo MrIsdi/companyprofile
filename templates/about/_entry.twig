@@ -3,6 +3,18 @@
 	{% set aboutus = craft.entries().section('about').one() %}
 	{% for about in aboutus.pageBuilder.all() %}
 		{% if about.type.handle == 'layoutAboutUs' %}
+			<section>
+				{% for item in about.listImageAndParagraph.all() %}
+					<div>
+						{{ item.title }}<br/>
+						{{ item.body }}<br/>
+						{% set image = item.bodyImage.one() %}
+						{% if image %}
+							{{ image.url }}
+						{% endif %}
+					</div>
+				{% endfor %}
+			</section>
 			<section class="bg-[#F8FAFC] mb-8">
 				<div class="py-8 px-4 mx-auto max-w-screen-xl items-center lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
 					{% for item in about.about.all() %}

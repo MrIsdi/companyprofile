@@ -1,0 +1,21 @@
+columnSuffix: null
+handle: listImageAndParagraph
+instructions: null
+name: 'List Image and Paragraph'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    - 382637ff-4f84-45c3-a071-bd7a61cb3a06 # Block Image and Paragraph
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

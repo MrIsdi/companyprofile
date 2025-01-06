@@ -64,6 +64,14 @@
 		{% endif %}
 		{% if home.type.handle == 'layoutCount' %}
 			<section class="bg-[#F8FAFC] mb-8">
+				{% for item in home.countStats %}
+					{# sample count card #}
+					<div>
+						{{ item.icon|raw }}<br/>
+						{{ item.countTotal }}<br/>
+						{{ item.caption }}<br/>
+					</div>
+				{% endfor %}
 				<div
 					id="default-carousel" class="relative w-full md:hidden block" data-carousel="slide" data-anijs="if: scroll, on: window, do: bounceInUp animated, before: $scrollReveal">
 					<!-- Carousel wrapper -->
