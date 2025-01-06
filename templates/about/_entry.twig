@@ -1,7 +1,7 @@
 {% extends '_layouts/base' %}
 {% block content %}
-	{% set aboutus = craft.entries().section('about').one() %}
-	{% for about in aboutus.pageBuilder.all() %}
+{#	{% set entry = craft.entries().section('about').one() %}#}
+	{% for about in entry.pageBuilder.all() %}
 		{% if about.type.handle == 'layoutAboutUs' %}
 			<section>
 				{% for item in about.listImageAndParagraph.all() %}

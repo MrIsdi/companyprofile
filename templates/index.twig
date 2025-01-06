@@ -1,8 +1,8 @@
 {% extends '_layouts/base' %}
 {% block content %}
-	{% set homepage = craft.entries().section('homepage').one() %}
+{#	{% set entry = craft.entries().section('homepage').one() %}#}
 	{% set product = craft.entries().section('product').all() %}
-	{% for home in homepage.pageBuilder.all() %}
+	{% for home in entry.pageBuilder.all() %}
 		{% if home.type.handle == 'layoutHome' %}
 			<section class="bg-[#F8FAFC] mb-8">
 				<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
